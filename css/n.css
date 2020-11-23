@@ -1,0 +1,64 @@
+h1{
+    font-size: 20pt;
+    font-family: Verdana;
+    color: rgb(224, 124, 9);
+    text-align: center;
+    background-image:url("https://www.institutomillenium.org.br/wp-content/uploads/2019/08/caminho.jpg");
+    width: 1335;
+    height: 100;
+    padding-top: 0;
+}
+p{
+    font-size: 14pt;
+}
+body{
+    background-color: yellow;
+}
+#click {
+    width: 100px;
+    border: 2px solid rgb(1, 10, 1);
+    border-radius: 25%;
+    padding: 10px;
+    margin: 20px
+}
+div{
+    text-align: center;
+}
+#inicio{
+    text-align: left;
+    color: white;
+}
+ul{
+    list-style: none;
+    text-align: right;
+    margin: 10px;
+    margin-top: 10px;
+    display: grid;
+    align-self: center;
+}
+nav{
+   
+    background: rgb(1, 58, 1);
+    top: 0;
+    position: sticky;
+    width: 100%;
+    padding-top: 0;
+    border: 10px;
+    padding: 0;
+    
+}
+button{
+    background: rgb(45, 96, 161);
+}
+button:hover{
+    background-color: yellowgreen;
+}
+footer{
+    
+    text-align: center;
+    font-style: italic;
+    font-size: 6pt;
+    background: rgb(56, 128, 9);
+
+    
+}
